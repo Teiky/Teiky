@@ -5,7 +5,7 @@
 ![Teiky GitHub stats](https://github-readme-stats.vercel.app/api?username=Teiky&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que utilizo
-<div style="display: inline_block"><br/>
+
  <img align="center" alt=Python src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
  <img align="center" alt=After-Effects src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
  <img align="center" alt=Photoshop src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
@@ -15,6 +15,7 @@
 <div style="display: inline_block"><br/>
 
 ## Contato
+ 
 [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teiky/)

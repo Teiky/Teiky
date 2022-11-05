@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br/>
 
-![Teiky GitHub stats](https://github-readme-stats.vercel.app/api?username=Teiky&show_icons=true&theme=tokyonight)
+![Teiky GitHub stats](https://github-readme-stats.vercel.app/api?username=Teiky&show_icons=true&theme=algolia)
 
 ## Tecnologias que utilizo
 
